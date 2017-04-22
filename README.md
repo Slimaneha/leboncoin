@@ -73,7 +73,18 @@ Crédit Photo : http://leboncoin.fr
 
 
 
+----------------------------------------------------------------------------------------------------------------------
 
+Class PC pages nord.html 
+
+1* 	haut == en-tête du sous header formulaire ligne du haut  "div"
+2*	bas == desous du sous header formulaire ligne du bas  "div"
+3*	nav-nord == Nav Gatégorie type de vendeur  "div"
+4*	droite == gros block à placer à droite 'Annonces à la une ' "div"
+5*
+6*
+7*
+8*
 
 
 
