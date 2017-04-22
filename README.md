@@ -19,7 +19,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Class Mobile " Vus 320px"   Plus Roles dans le Html 
+Class Mobile " Vus 320px"   Plus Roles dans le Html  "Idex.html"sauf header et Footer type sur tout les pages !!
 
 *
 //////////////////////////
@@ -34,7 +34,7 @@ Class Mobile " Vus 320px"   Plus Roles dans le Html
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Classe Table  Vus 980px 
+Classe Table  Vus 980px  "Idex.html"  sauf header et Footer type sur tout les pages !!
 
 *
 *
@@ -48,10 +48,10 @@ Classe Table  Vus 980px
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  
-Class PC 1080px  
+Class PC 1080px  "Idex.html"  sauf header et Footer type sur tout les pages !! 
 
 *   nav-pc ==   "Nav du Header Pour Pc & Tablette"
-* nav-f-pc == 	"nav Du footer Uniquement PC ! "
+*	 nav-f-pc == 	"nav Du footer Uniquement PC ! "
 *
 *
 *
