@@ -269,7 +269,7 @@ footer figure {
     border: none;
     border-left: 2px solid white;
     border-right: 2px solid white;
-    margin-right: 5px;
+    margin-right: 3px;
     width: 170px;
 }
 
@@ -281,7 +281,7 @@ footer figure {
 }
 
 .nav-pc ul li a {
-    font-size: 14px;
+    font-size: 13px;
     margin-right: 8px;
     color: white;
     text-decoration-line: none;
@@ -292,14 +292,31 @@ footer figure {
 header h1 {
     text-align: left;
     justify-content: flex-start;
-    width: 140px;
+    width: 130px;
+}
+
+
+/*----------------------------------------------------------
+            CONTENUE  980PX INDEX.HTML 
+----------------------------------------------------------            */
+
+
+.zone-1{
+    width: 400px;
+    
 }
 
 .map {
-    display: 
-    align-items:flex-end;
-}
 
+    float: right;
+    margin-top: -6em;
+    
+    }
+
+.button{
+    margin-top: 2em;
+    float: left;
+}
 /*CONTENUE INDEX.HTML 980PX */
 
 
