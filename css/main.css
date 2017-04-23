@@ -104,7 +104,7 @@ textarea {
 
    }
 
- .nav-pc,.button-1 {
+ .nav-pc,.button-1,.nav-f-pc {
      display: none;
  }
 
@@ -177,6 +177,17 @@ textarea {
         margin-bottom: 1em;
     }
 
+    .zone-2{
+        text-align: center;
+        width: 90%;
+        margin-left: 10px;
+    }
+
+
+/*========== FOOTER MOBILE 300PX ========== */
+    
+
+    
 
 /* ==========================================================================
    Helper classes
