@@ -51,10 +51,11 @@ Classe Table  Vus 980px  "Idex.html"  sauf header et Footer type sur tout les pa
 Class PC 1080px  "Idex.html"  sauf header et Footer type sur tout les pages !! 
 
 *   nav-pc ==   "Nav du Header Pour Pc & Tablette"
-*	 nav-f-pc == 	"nav Du footer Uniquement PC ! "
-*
-*
-*
+*	nav-f-pc == 	"nav Du footer Uniquement PC ! "
+*   blue ==         Button Déposer une Annonces " couleur bleu text blanc
+    blanc ==      Button rechercher autour de mois couleur blanc  text bleu 
+* zone-1  ==     Paragraphe "nonbre d'annoces sur leboncoin 
+*   zone-2 ==  zone text avant footer 
 *
 *
 *
