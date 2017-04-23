@@ -97,12 +97,42 @@ textarea {
    h5{
         display: none;
    }
+   *{
+       margin:0;
+       font-family: 'Ubuntu', sans-serif;
 
+   }
 
+ .nav-pc,.button-1 {
+     display: none;
+ }
 
+ span{
+     color: #F56B2A;
+ }
+/*========================================================================================================================================*/
+                                    /*HEADER MOBILE TYPE !!!                                                                              */
+/*========================================================================================================================================                                    */
+    header{
+        height: 90px;
+        justify-content: flex-start;
+        background-color: #F56B2A;
+        color: white;
+        font-family: 'Ubuntu', sans-serif;
 
+        
+    }
+    header h1{
+        text-align: center;
+        
+    }
 
-
+    .button{
+        background-color: white;
+        color: #F56B2A;
+        border-radius: 5px;
+        
+    }
 
 
 
