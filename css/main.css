@@ -334,7 +334,9 @@ header h1 {
  @media (min-width:1024)
  {
    
-
+.button-h{
+    display: none;
+}
 
 
 .button-1 {
@@ -356,16 +358,34 @@ header h1 {
     text-align: left;
     font-weight: bold;
 }
+.nav-pc ul li a:hover {
+    border-bottom: solid 1px;
+
+}
 
 header h1 {
     text-align: left;
     justify-content: flex-start;
     width: 130px;
+    margin-right: 2em;
 }
 
 
     /*Start of rules header 1024 px */
 
+/*============================================
+Start rules nord.ht
+===========================================*/
+
+.haut{
+    display: inline-flex;
+    border: solid 2px black;
+}
+
+
+.haut{
+    margin-left: 1em;
+}
 
 
 
@@ -374,14 +394,14 @@ header h1 {
 
 
 
+/*============================================================
+            Start of rules css Form.HTML
+ =============================================================           */
 
-
-
-
-
-
-
-
+.partie-1 form{
+    border: solid 1px gray;
+    
+}
 
 
 
