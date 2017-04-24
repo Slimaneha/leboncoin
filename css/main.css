@@ -398,9 +398,9 @@ Start rules nord.ht
             Start of rules css Form.HTML
  =============================================================           */
 
-form{
-    border: solid 1px gray;
-    
+#partie-1 {
+    margin-left: 2em;
+    background-color: red;
 }
 
 
